@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    src: url('..fonts\Inter\static\Inter-Regular.ttf') format('ttf');
+  }
+
+  @font-face {
+    font-family: 'Inter';
+    font-style: bold;
+    src: url('..fonts\Inter\static\Inter-Bold.ttf') format('ttf');
+  }
+
+  @font-face {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    src: url('..fonts\Roboto_Condensed\RobotoCondensed-Regular.ttf') format('ttf');
+  }
+
+  @font-face {
+    font-family: 'Roboto Condensed';
+    font-style: bold;
+    src: url('..fonts\Roboto_Condensed\RobotoCondensed-Bold.ttf') format('ttf');    
+  }
+
+  @font-face {
+    font-family: 'RobotoCondensed';
+    font-style: bold;
+    src: url('..fonts\Roboto_Condensed\RobotoCondensed-Bold.ttf') format('ttf');    
+  }
+
+  @font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    src: url('..fonts\Montserrat\static\Montserrat-Regular.ttf') format('ttf');    
+  }
+
+  @font-face {
+    font-family: 'Montserrat';
+    font-style: bold;
+    src: url('..fonts\Montserrat\static\Montserrat-Bold.ttf') format('ttf');    
+  }
+
+  @font-face {
+    font-family: 'SourceSansPro';
+    font-style: normal;
+    src: url('..fonts\Source_Sans_Pro\SourceSansPro-Regular.ttf') format('ttf');    
+  }
+
+  @font-face {
+    font-family: 'SourceSansPro';
+    font-style: bold;
+    src: url('..fonts\Source_Sans_Pro\SourceSansPro-Bold.ttf') format('ttf');    
+  }
